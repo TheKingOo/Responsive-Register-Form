@@ -14,4 +14,4 @@ Website Preview:
 
 - The mobile version is designed with a vertical layout for smaller screens and displays content in smaller chunks that can be easily read and navigated with a thumb or a single finger.
 
-![Uploading Screenshot from 2023-04-09 00-36-10.png…]()
+![Screenshot from 2023-04-09 00-36-10](https://user-images.githubusercontent.com/95720632/230748586-fb5e0e21-a87c-4016-953f-c0ddebc07102.png)
